@@ -1,7 +1,7 @@
 # api-pwsh
-I had a customer who was testing so many api and, we're using postman. But, it seems like too tedious since we're testing api one by one and wasting so much time changing the url, body, header etc. We're using Windows, so I built a powershell script to test api easily.
+api-pwsh is a api client written in powershell. Required csv file.
 
-We're using csv file to gather all api data. I think you need a csv file editor like Excel, or Libreoffice.
+I had a customer who was testing so many api and, we're using postman. But, it seems like too tedious since we're testing api one by one and wasting so much time changing the url, body, header etc. We're using Windows, so I built a powershell script to test api easily.
 
 ## Usage
 ```
