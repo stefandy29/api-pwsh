@@ -38,6 +38,12 @@ I had a customer who was testing so many api and, we're using postman. But, it s
 <td>Yes</td>
 </tr>
 <tr>
+<td>header</td>
+<td>API Header</td>
+<td>"Content-Type"="application/json";"Authentication"="Test"</td>
+<td>No</td>
+</tr>
+<tr>
 <td>method</td>
 <td>API Method</td>
 <td>POST</td>
