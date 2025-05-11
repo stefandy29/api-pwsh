@@ -47,7 +47,7 @@ We're using csv file to gather all api data. I think you need a csv file editor 
 <td>request</td>
 <td>API Request Body</td>
 <td>{"name": "morpheus","job": "leader"}</td>
-<td>Yes</td>
+<td>No</td>
 </tr>
 </tbody></table>
 
