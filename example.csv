@@ -1,0 +1,7 @@
+﻿run,case,url,header,method,request
+RUN,CREATE USER,https://mocktarget.apigee.net/echo,"""Content-Type""=""application/json"";""Authentication""=""Test""",POST,"{
+    ""name"": ""morpheus"",
+    ""job"": ""leader""
+} "
+RUN,LIST USER PAGE 2,https://mocktarget.apigee.net/user,,GET,
+,GET SINGLE USER,https://mocktarget.apigee.net/xml ,,GET,
