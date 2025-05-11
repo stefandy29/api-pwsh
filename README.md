@@ -41,7 +41,7 @@ We're using csv file to gather all api data. I think you need a csv file editor 
 <td>method</td>
 <td>API Method</td>
 <td>POST</td>
-<td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td>request</td>
